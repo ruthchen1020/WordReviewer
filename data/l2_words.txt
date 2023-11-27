@@ -1,0 +1,25 @@
+plumber
+carpenter
+tailor
+painter
+repairperson
+surgeon
+photographer
+architect
+waiter
+waitress
+musician
+technician
+artist
+diplomat
+demographer
+pilot
+tutor
+dentist
+bellboy
+scientist
+flight attendant
+accountant
+lawyer
+teller
+housekeeper

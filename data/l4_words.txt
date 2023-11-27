@@ -1,0 +1,10 @@
+stationery
+stapler
+accessory
+clip
+brochure
+envelope
+memo
+manual
+notice
+document

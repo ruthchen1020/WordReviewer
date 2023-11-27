@@ -1,0 +1,17 @@
+speaker
+attendee
+audience
+tourist
+visitor
+passenger
+literate
+sibling
+civilian
+pensioner
+victim
+elite
+vanguard
+competitor
+immigrant
+collector
+purse
